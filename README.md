@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm studing Informatic Engineering 👨‍🎓
+- I'm currently working on my final degree project 🔨
+- I program on Python, Java, C++, JS 👶
