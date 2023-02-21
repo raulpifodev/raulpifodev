@@ -9,10 +9,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raulpifodev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulpifodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## ✌ More about me  
 
----
-[![](https://visitcount.itsvg.in/api?id=raulpifodev&icon=0&color=0)](https://visitcount.itsvg.in)
+<details> 
+  <summary>📘 Books that I've already read </summary>
+  <br/>
+    - 💲 Poor dad rich dad by robert kiyosaki 
+  <br/>
+</details>
+<details> 
+  <summary>👁️ Profile Views  </summary>
+  <br/>
+  
+ [![](https://visitcount.itsvg.in/api?id=raulpifodev&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</details>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
